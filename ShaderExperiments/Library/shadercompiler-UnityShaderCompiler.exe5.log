@@ -1,0 +1,119 @@
+Base path: D:/Unity/Editor/2018.2.7f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=17725 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=42369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=26801 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=35365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=18109 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=20641 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=28949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=25413 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=22089 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=19697 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=20541 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=31321 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25381 outsize=15709 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5004 outsize=9129 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18144 outsize=14613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1470 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19653 outsize=27145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=32699 outsize=30237 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1454 outsize=597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=4729 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=5233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=9453 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6565 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8773 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=11145 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=44133 outsize=1666 kw=DIRLIGHTMAP_COMBINED DEBUG_DISPLAY pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=1666 outsize=2954 ok=1
+Cmd: disassembleShader
+  api=4 insize=4646 outsize=7308 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=43131 outsize=1462 kw=DIRLIGHTMAP_COMBINED LIGHTLOOP_SINGLE_PASS USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=1462 outsize=2505 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=43131 outsize=1462 kw=LIGHTLOOP_TILE_PASS DEBUG_DISPLAY USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=1462 outsize=2505 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at CoreRP/ShaderLibrary/AreaLighting.hlsl(24): floating point division by zero\nCompiling Fragment program with LIGHTLOOP_SINGLE_PASS USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 4 at CoreRP/ShaderLibrary/AreaLighting.hlsl(150): floating point division by zero\nCompiling Fragment program with LIGHTLOOP_SINGLE_PASS USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 4 at Lit/Lit.hlsl(932): floating point division by zero\nCompiling Fragment program with LIGHTLOOP_SINGLE_PASS USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=43131 outsize=20610 kw=LIGHTLOOP_SINGLE_PASS USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=20610 outsize=32694 ok=1
+Cmd: disassembleShader
+  api=4 insize=1666 outsize=2954 ok=1
+Cmd: disassembleShader
+  api=4 insize=922 outsize=1684 ok=1
+Cmd: disassembleShader
+  api=4 insize=4646 outsize=7308 ok=1
+Cmd: disassembleShader
+  api=4 insize=1638 outsize=2704 ok=1
+Cmd: disassembleShader
+  api=4 insize=1922 outsize=3216 ok=1
+Cmd: disassembleShader
+  api=4 insize=1462 outsize=2505 ok=1
+Cmd: disassembleShader
+  api=4 insize=1462 outsize=2505 ok=1
+Cmd: disassembleShader
+  api=4 insize=21406 outsize=33899 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at CoreRP/ShaderLibrary/AreaLighting.hlsl(24): floating point division by zero\nCompiling Fragment program with DIRLIGHTMAP_COMBINED LIGHTLOOP_SINGLE_PASS DEBUG_DISPLAY USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 4 at CoreRP/ShaderLibrary/AreaLighting.hlsl(150): floating point division by zero\nCompiling Fragment program with DIRLIGHTMAP_COMBINED LIGHTLOOP_SINGLE_PASS DEBUG_DISPLAY USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 4 at Lit/Lit.hlsl(932): floating point division by zero\nCompiling Fragment program with DIRLIGHTMAP_COMBINED LIGHTLOOP_SINGLE_PASS DEBUG_DISPLAY USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=43131 outsize=40958 kw=DIRLIGHTMAP_COMBINED LIGHTLOOP_SINGLE_PASS DEBUG_DISPLAY USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=40958 outsize=71639 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
